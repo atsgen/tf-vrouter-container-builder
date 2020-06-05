@@ -1,0 +1,5 @@
+[tungsten]
+name = Tungsten repo
+baseurl = ${TUNGSTEN_REPOSITORY}
+enabled = 1
+gpgcheck = 0
